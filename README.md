@@ -100,5 +100,5 @@ All fragments are returned as canonical SMILES without atom mapping.
 
 ## Author
 
-Your Name  
-GitHub: https://github.com/yourusername
+Ikegami.PhD  
+GitHub: https://github.com/ikgms
